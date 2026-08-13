@@ -7,7 +7,7 @@ instructions:
 
 2 get a steam API key at https://steamcommunity.com/dev/apikey
 
-3 enter the steam API key and your steam id witch is the long string of numbers after profile in the profile steam page URL
+3 enter the steam API key and your steam id witch is the long string of numbers after profile in the profile steam page URL in to the steam_setings.txt file
 
 4 run game_tracker_v10.pyw
 
