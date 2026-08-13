@@ -11,4 +11,4 @@ instructions:
 
 4 run game_tracker_v10.pyw
 
-
+5 scan steam minecraft bluestacks and roblox and add any thing else manualy
